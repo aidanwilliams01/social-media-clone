@@ -15,6 +15,7 @@ code {
 .test {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .test2 {
@@ -38,4 +39,20 @@ button {
   border-radius: 10px;
   border: solid lightblue;
   margin: 10px;
+}
+
+.test4 {
+  display: flex;
+  border: solid lightgray;
+  height: 100px;
+  width: 30%;
+  background-color: cornflowerblue;
+}
+
+.test5 {
+  display: flex;
+  border: solid lightgray;
+  justify-content: center;
+  height: 100px;
+  width: 30%;
 }
