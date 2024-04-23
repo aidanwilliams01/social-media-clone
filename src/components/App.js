@@ -1,6 +1,12 @@
+import React from "react";
+import Header from "./Header";
+
 function App() {
   return (
-    <div></div>
+    <React.Fragment>
+      <Header />
+      <hr></hr>
+    </React.Fragment>
   );
 }
 

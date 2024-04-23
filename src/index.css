@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.test {
+  display: flex;
+  align-items: center;
+}
+
+.test2 {
+  border: solid lightgray;
+  padding: 10px;
+  /* color: red; */
+}
+
+.test3 {
+  margin-left: auto;
+}
+
+input {
+  margin-left: auto;
+  border-radius: 10px;
+  border: solid lightblue;
+  /* margin: 10px; */
+}
+
+button {
+  border-radius: 10px;
+  border: solid lightblue;
+  margin: 10px;
+}
