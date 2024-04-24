@@ -2,10 +2,10 @@ import React from "react";
 
 function Header() {
   return (
-    <div class="test">
-      <div class="test2">Home</div>
-      <div class="test2">Notifications</div>
-      <div class="test2">Messages</div>
+    <div class="header">
+      <div class="headerDiv">Home</div>
+      <div class="headerDiv">Notifications</div>
+      <div class="headerDiv">Messages</div>
 
       <input placeholder="Search"></input>
       <button>Tweet</button>

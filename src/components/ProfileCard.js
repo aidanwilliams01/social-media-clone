@@ -2,7 +2,7 @@ import React from "react";
 
 function ProfileCard() {
   return (
-    <div class="test4">
+    <div class="profileCard">
       test
     </div>
   )

@@ -1,16 +1,15 @@
 import React from "react";
 import Header from "./Header";
-import ProfileCard from "./ProfileCard";
-import Sidebar from "./Sidebar";
+import Body from "./Body";
+
+// switch to bootstrap?
 
 function App() {
   return (
     <React.Fragment>
       <Header />
       <hr></hr>
-      <ProfileCard />
-      <br></br>
-      <Sidebar />
+      <Body />
     </React.Fragment>
   );
 }

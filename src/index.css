@@ -12,20 +12,16 @@ code {
     monospace;
 }
 
-.test {
+.header {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.test2 {
+.headerDiv {
   border: solid lightgray;
   padding: 10px;
   /* color: red; */
-}
-
-.test3 {
-  margin-left: auto;
 }
 
 input {
@@ -41,18 +37,23 @@ button {
   margin: 10px;
 }
 
-.test4 {
+.profileCard {
   display: flex;
   border: solid lightgray;
-  height: 100px;
+  /* height: 30dvi; */
   width: 30%;
   background-color: cornflowerblue;
 }
 
-.test5 {
+.sidebar {
   display: flex;
   border: solid lightgray;
   justify-content: center;
-  height: 100px;
-  width: 30%;
+  /* height: 100px; */
+  width: 20%;
+  padding: 5%
+}
+
+.body {
+  display: flex;
 }
