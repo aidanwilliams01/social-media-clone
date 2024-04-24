@@ -7,7 +7,7 @@ function Header() {
       <div class="headerDiv">Notifications</div>
       <div class="headerDiv">Messages</div>
 
-      <input placeholder="Search"></input>
+      <input class="searchInput" placeholder="Search"></input>
       <button class="tweetButton">Tweet</button>
     </div>
   )

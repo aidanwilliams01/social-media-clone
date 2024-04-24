@@ -24,7 +24,7 @@ code {
   /* color: red; */
 }
 
-input {
+.searchInput {
   margin-left: auto;
   border-radius: 10px;
   border: solid lightblue;
@@ -63,7 +63,17 @@ input {
 
 .feed {
   border: solid lightgray;
+  padding: 2%;
   /* width: 40%; */
+}
+
+.topOfFeed {
+  background-color: lightblue;
+  padding: 2%;
+}
+
+.happeningInput {
+  border-color: aqua;
 }
 
 .recommendedSidebar {
