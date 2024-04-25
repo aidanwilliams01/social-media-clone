@@ -1,6 +1,4 @@
-# (Application Name)
-
-#### (Brief Description of Application)
+# Social Media Clone
 
 #### By Aidan Williams
 
@@ -18,6 +16,8 @@
 
 ## Description
 
+A Twitter mock-up using React.
+
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop._
@@ -33,8 +33,7 @@
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known bugs._
 
 ## License
 

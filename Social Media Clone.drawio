@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2024-04-19T22:41:32.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="O3vjzxFwJXQQJBtZrUmC" version="24.2.7" type="device">
+  <diagram name="Page-1" id="CwMCsJkcBWRQVUuXybrC">
+    <mxGraphModel dx="1008" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jCNpFeg_SYQjKg4g58Z5-1" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="40" width="596" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCNpFeg_SYQjKg4g58Z5-3" value="Profile card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="120" width="173" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jCNpFeg_SYQjKg4g58Z5-4" value="Sidebar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="260" width="173" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jCNpFeg_SYQjKg4g58Z5-5" value="Feed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="250" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jCNpFeg_SYQjKg4g58Z5-6" value="Recommended sidebar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="153" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
