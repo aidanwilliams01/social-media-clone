@@ -21,14 +21,11 @@ code {
 .headerDiv {
   border: solid lightgray;
   padding: 10px;
-  /* color: red; */
 }
 
 .searchInput {
   margin-left: auto;
   border-radius: 10px;
-  border: solid lightblue;
-  /* margin: 10px; */
 }
 
 .tweetButton {
@@ -38,19 +35,22 @@ code {
 }
 
 .profileCard {
-  /* display: flex; */
   border: solid lightgray;
-  /* height: 30dvi; */
-  /* width: 30%; */
-  background-color: cornflowerblue;
+}
+
+.blue {
+  background-color: dodgerblue;
+  height: 10em;
+}
+
+.lightAndCentered {
+  font-weight: lighter;
+  text-align: center;
+  white-space: pre;
 }
 
 .sidebar {
-  /* display: flex; */
   border: solid lightgray;
-  /* justify-content: center; */
-  /* height: 100px; */
-  /* width: 20%; */
   padding: 5%
 }
 
@@ -64,7 +64,6 @@ code {
 .feed {
   border: solid lightgray;
   padding: 2%;
-  /* width: 40%; */
 }
 
 .topOfFeed {
@@ -76,6 +75,11 @@ code {
   border-color: aqua;
 }
 
+.issueDivider {
+  width: 80%;
+  margin-left: 0;
+}
+
 .recommendedSidebar {
   border: solid lightgray;
   padding: 5%;
@@ -84,7 +88,6 @@ code {
 .recommendedButton {
   background-color: blue;
   color: white;
-  /* padding: 5px; */
 }
 
 .left {
